@@ -7,8 +7,7 @@
     "test": "jest ./test"
   },
   "repository": {
-    "type": "git",
-    "url": "https://git.imooc.com/coding-315/leetcode.git"
+    "type": "git"
   },
   "keywords": [
     "leetcode"
