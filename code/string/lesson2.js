@@ -1,4 +1,5 @@
-function lesson(str){
+//leetcode 696
+export default (str)=>{
   // 2.声明一个数组
   let arr=[];
   let match=(str)=>{
@@ -35,4 +36,4 @@ function lesson(str){
   return arr;
 
 }
-lesson('00110011')
+// lesson('00110011')
